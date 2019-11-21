@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 0 5%;
 }
 
 .App-logo {
@@ -30,4 +31,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.space {
+  width: 100%;
+}
+img {
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+}
+
+.popup {
+  color: white;
+  background: #393939;
+  padding: 1%; 
+
 }
